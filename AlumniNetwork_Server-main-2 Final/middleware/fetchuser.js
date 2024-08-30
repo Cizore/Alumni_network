@@ -1,3 +1,4 @@
+/*fetching user.js*/
 var jwt = require('jsonwebtoken');
 const JWT_SECRET = 'RohitIsAGee$k';
 
